@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6658552d5e3ae7d99154f867"
+  },
+  "fullname": "Abhay Sonawane",
+  "email": "abhay@gmail.com",
+  "usrnm": "abhay",
+  "pwrd": "abhay",
+  "phone": 1234567890,
+  "dob": {
+    "$date": "2024-06-07T00:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf094921f"
+  },
+  "fullname": "John Doe",
+  "email": "johndoe@example.com",
+  "usrnm": "john_doe",
+  "pwrd": "securepassword123",
+  "phone": 1234567890,
+  "dob": "1990-01-15",
+  "gender": "Male"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949220"
+  },
+  "fullname": "Jane Smith",
+  "email": "janesmith@example.com",
+  "usrnm": "jane_smith",
+  "pwrd": "anothersecurepassword456",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "dob": "1985-05-23",
+  "gender": "Female"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949221"
+  },
+  "fullname": "Alice Johnson",
+  "email": "alicejohnson@example.com",
+  "usrnm": "alice_j",
+  "pwrd": "yetanotherpassword789",
+  "phone": {
+    "$numberLong": "5556667777"
+  },
+  "dob": "1992-11-30",
+  "gender": "Female"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949222"
+  },
+  "fullname": "Bob Brown",
+  "email": "bobbrown@example.com",
+  "usrnm": "bob_brown",
+  "pwrd": "supersecurepassword000",
+  "phone": {
+    "$numberLong": "4445556666"
+  },
+  "dob": "1988-03-14",
+  "gender": "Male"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949223"
+  },
+  "fullname": "Carol White",
+  "email": "carolwhite@example.com",
+  "usrnm": "carol_white",
+  "pwrd": "verysecurepassword111",
+  "phone": {
+    "$numberLong": "3334445555"
+  },
+  "dob": "1995-07-19",
+  "gender": "Female"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949224"
+  },
+  "fullname": "David Black",
+  "email": "davidblack@example.com",
+  "usrnm": "david_black",
+  "pwrd": "securepassword222",
+  "phone": {
+    "$numberLong": "2223334444"
+  },
+  "dob": "1983-12-25",
+  "gender": "Male"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949225"
+  },
+  "fullname": "Eve Green",
+  "email": "evegreen@example.com",
+  "usrnm": "eve_green",
+  "pwrd": "anotherpassword333",
+  "phone": 1112223333,
+  "dob": "1998-09-09",
+  "gender": "Female"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949226"
+  },
+  "fullname": "Frank Harris",
+  "email": "frankharris@example.com",
+  "usrnm": "frank_h",
+  "pwrd": "yetanotherpassword444",
+  "phone": {
+    "$numberLong": "6667778888"
+  },
+  "dob": "1980-04-02",
+  "gender": "Male"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949227"
+  },
+  "fullname": "Grace Lee",
+  "email": "gracelee@example.com",
+  "usrnm": "grace_lee",
+  "pwrd": "superpassword555",
+  "phone": {
+    "$numberLong": "7778889999"
+  },
+  "dob": "1993-06-15",
+  "gender": "Female"
+},
+{
+  "_id": {
+    "$oid": "665868a1940d1c2bf0949228"
+  },
+  "fullname": "Henry Adams",
+  "email": "henryadams@example.com",
+  "usrnm": "henry_adams",
+  "pwrd": "anothersecurepassword666",
+  "phone": {
+    "$numberLong": "8889990000"
+  },
+  "dob": "1986-10-10",
+  "gender": "Male"
+}]

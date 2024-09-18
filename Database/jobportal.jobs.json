@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "665867a7940d1c2bf094920f"
+  },
+  "type": "Full-time",
+  "location": "San Francisco, CA",
+  "region": "North America",
+  "title": "Software Engineer",
+  "email": "jobs@techcorp.com",
+  "companyname": "TechCorp",
+  "LNusrnm": "techcorp-linkedin",
+  "twitter": "@techcorp",
+  "tagline": "Innovating the future",
+  "FBusrnm": "techcorp.fb",
+  "website": "https://www.techcorp.com",
+  "jobDescription": "We are looking for a skilled software engineer to join our dynamic team. Responsibilities include developing and maintaining web applications, collaborating with cross-functional teams, and participating in code reviews."
+},
+{
+  "_id": {
+    "$oid": "665867a7940d1c2bf0949210"
+  },
+  "type": "Part-time",
+  "location": "New York, NY",
+  "region": "North America",
+  "title": "Graphic Designer",
+  "email": "careers@creativestudio.com",
+  "companyname": "Creative Studio",
+  "LNusrnm": "creativestudio-linkedin",
+  "twitter": "@creativestudio",
+  "tagline": "Designing the extraordinary",
+  "FBusrnm": "creativestudio.fb",
+  "website": "https://www.creativestudio.com",
+  "jobDescription": "Seeking a talented graphic designer to create engaging and on-brand graphics for a variety of media. The ideal candidate should have a strong portfolio, proficiency in design software, and a creative mindset."
+},
+{
+  "_id": {
+    "$oid": "665867a7940d1c2bf0949211"
+  },
+  "type": "Remote",
+  "location": "Remote",
+  "region": "Global",
+  "title": "Digital Marketing Specialist",
+  "email": "jobs@marketingpro.com",
+  "companyname": "MarketingPro",
+  "LNusrnm": "marketingpro-linkedin",
+  "twitter": "@marketingpro",
+  "tagline": "Your success, our mission",
+  "FBusrnm": "marketingpro.fb",
+  "website": "https://www.marketingpro.com",
+  "jobDescription": "We are looking for a digital marketing specialist to manage our online presence and campaigns. The role involves developing strategies to increase website traffic, optimizing content for SEO, and analyzing campaign performance."
+},
+{
+  "_id": {
+    "$oid": "665867a7940d1c2bf0949212"
+  },
+  "type": "Contract",
+  "location": "Austin, TX",
+  "region": "North America",
+  "title": "Project Manager",
+  "email": "careers@buildit.com",
+  "companyname": "BuildIt",
+  "LNusrnm": "buildit-linkedin",
+  "twitter": "@buildit",
+  "tagline": "Building your dreams",
+  "FBusrnm": "buildit.fb",
+  "website": "https://www.buildit.com",
+  "jobDescription": "Looking for an experienced project manager to oversee construction projects from conception to completion. Responsibilities include coordinating staff, managing budgets, and ensuring projects are completed on time and within scope."
+},
+{
+  "_id": {
+    "$oid": "665867a7940d1c2bf0949213"
+  },
+  "type": "Internship",
+  "location": "Chicago, IL",
+  "region": "North America",
+  "title": "Data Analyst Intern",
+  "email": "internships@datawise.com",
+  "companyname": "DataWise",
+  "LNusrnm": "datawise-linkedin",
+  "twitter": "@datawise",
+  "tagline": "Insights through data",
+  "FBusrnm": "datawise.fb",
+  "website": "https://www.datawise.com",
+  "jobDescription": "We are offering a summer internship for a data analyst. The role involves analyzing large datasets, creating reports, and providing insights to support business decisions. Ideal candidates should have strong analytical skills and knowledge of statistical tools."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf0949214"
+  },
+  "type": "Full-time",
+  "location": "San Francisco, CA",
+  "region": "North America",
+  "title": "Software Engineer",
+  "email": "jobs@techcorp.com",
+  "companyname": "TechCorp",
+  "LNusrnm": "techcorp-linkedin",
+  "twitter": "@techcorp",
+  "tagline": "Innovating the future",
+  "FBusrnm": "techcorp.fb",
+  "website": "https://www.techcorp.com",
+  "jobDescription": "We are looking for a skilled software engineer to join our dynamic team. Responsibilities include developing and maintaining web applications, collaborating with cross-functional teams, and participating in code reviews."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf0949215"
+  },
+  "type": "Part-time",
+  "location": "New York, NY",
+  "region": "North America",
+  "title": "Graphic Designer",
+  "email": "careers@creativestudio.com",
+  "companyname": "Creative Studio",
+  "LNusrnm": "creativestudio-linkedin",
+  "twitter": "@creativestudio",
+  "tagline": "Designing the extraordinary",
+  "FBusrnm": "creativestudio.fb",
+  "website": "https://www.creativestudio.com",
+  "jobDescription": "Seeking a talented graphic designer to create engaging and on-brand graphics for a variety of media. The ideal candidate should have a strong portfolio, proficiency in design software, and a creative mindset."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf0949216"
+  },
+  "type": "Remote",
+  "location": "Remote",
+  "region": "Global",
+  "title": "Digital Marketing Specialist",
+  "email": "jobs@marketingpro.com",
+  "companyname": "MarketingPro",
+  "LNusrnm": "marketingpro-linkedin",
+  "twitter": "@marketingpro",
+  "tagline": "Your success, our mission",
+  "FBusrnm": "marketingpro.fb",
+  "website": "https://www.marketingpro.com",
+  "jobDescription": "We are looking for a digital marketing specialist to manage our online presence and campaigns. The role involves developing strategies to increase website traffic, optimizing content for SEO, and analyzing campaign performance."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf0949217"
+  },
+  "type": "Contract",
+  "location": "Austin, TX",
+  "region": "North America",
+  "title": "Project Manager",
+  "email": "careers@buildit.com",
+  "companyname": "BuildIt",
+  "LNusrnm": "buildit-linkedin",
+  "twitter": "@buildit",
+  "tagline": "Building your dreams",
+  "FBusrnm": "buildit.fb",
+  "website": "https://www.buildit.com",
+  "jobDescription": "Looking for an experienced project manager to oversee construction projects from conception to completion. Responsibilities include coordinating staff, managing budgets, and ensuring projects are completed on time and within scope."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf0949218"
+  },
+  "type": "Internship",
+  "location": "Chicago, IL",
+  "region": "North America",
+  "title": "Data Analyst Intern",
+  "email": "internships@datawise.com",
+  "companyname": "DataWise",
+  "LNusrnm": "datawise-linkedin",
+  "twitter": "@datawise",
+  "tagline": "Insights through data",
+  "FBusrnm": "datawise.fb",
+  "website": "https://www.datawise.com",
+  "jobDescription": "We are offering a summer internship for a data analyst. The role involves analyzing large datasets, creating reports, and providing insights to support business decisions. Ideal candidates should have strong analytical skills and knowledge of statistical tools."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf0949219"
+  },
+  "type": "Full-time",
+  "location": "Seattle, WA",
+  "region": "North America",
+  "title": "DevOps Engineer",
+  "email": "jobs@cloudsolutions.com",
+  "companyname": "Cloud Solutions",
+  "LNusrnm": "cloudsolutions-linkedin",
+  "twitter": "@cloudsolutions",
+  "tagline": "Empowering your cloud journey",
+  "FBusrnm": "cloudsolutions.fb",
+  "website": "https://www.cloudsolutions.com",
+  "jobDescription": "We are seeking a DevOps engineer to automate and streamline our operations and processes. Responsibilities include building and maintaining tools for deployment, monitoring, and operations, and troubleshooting issues in our development, test, and production environments."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf094921a"
+  },
+  "type": "Part-time",
+  "location": "Los Angeles, CA",
+  "region": "North America",
+  "title": "Social Media Manager",
+  "email": "careers@mediahouse.com",
+  "companyname": "MediaHouse",
+  "LNusrnm": "mediahouse-linkedin",
+  "twitter": "@mediahouse",
+  "tagline": "Your brand, our mission",
+  "FBusrnm": "mediahouse.fb",
+  "website": "https://www.mediahouse.com",
+  "jobDescription": "We are looking for a social media manager to administer our social media accounts. You will be responsible for creating original text and video content, managing posts, and responding to followers. You should have excellent communication skills and be able to express our company’s views creatively."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf094921b"
+  },
+  "type": "Remote",
+  "location": "Remote",
+  "region": "Global",
+  "title": "Content Writer",
+  "email": "jobs@contentmasters.com",
+  "companyname": "ContentMasters",
+  "LNusrnm": "contentmasters-linkedin",
+  "twitter": "@contentmasters",
+  "tagline": "Crafting words that matter",
+  "FBusrnm": "contentmasters.fb",
+  "website": "https://www.contentmasters.com",
+  "jobDescription": "We are in need of a content writer to create compelling blog posts, white papers, product descriptions, social media content, and web copy. We’re looking for someone who will help us expand our digital footprint and drive more value through online content."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf094921c"
+  },
+  "type": "Contract",
+  "location": "Miami, FL",
+  "region": "North America",
+  "title": "UX/UI Designer",
+  "email": "careers@designhub.com",
+  "companyname": "DesignHub",
+  "LNusrnm": "designhub-linkedin",
+  "twitter": "@designhub",
+  "tagline": "Designing user experiences",
+  "FBusrnm": "designhub.fb",
+  "website": "https://www.designhub.com",
+  "jobDescription": "We are looking for a UX/UI Designer to turn our software into easy-to-use products for our clients. Responsibilities include gathering user requirements, designing graphic elements, and building navigation components. To be successful in this role, you should have experience with design software and wireframe tools."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf094921d"
+  },
+  "type": "Internship",
+  "location": "Boston, MA",
+  "region": "North America",
+  "title": "Marketing Intern",
+  "email": "internships@marketingsolutions.com",
+  "companyname": "Marketing Solutions",
+  "LNusrnm": "marketingsolutions-linkedin",
+  "twitter": "@marketingsolutions",
+  "tagline": "Solutions for success",
+  "FBusrnm": "marketingsolutions.fb",
+  "website": "https://www.marketingsolutions.com",
+  "jobDescription": "Our company is seeking a marketing intern who is looking to gain valuable experience in the field of marketing. The ideal candidate will be involved in a variety of marketing campaigns and activities. This is a great opportunity to learn from our experienced team and grow your skills."
+},
+{
+  "_id": {
+    "$oid": "66586816940d1c2bf094921e"
+  },
+  "type": "Full-time",
+  "location": "Dallas, TX",
+  "region": "North America",
+  "title": "Sales Representative",
+  "email": "jobs@salesforce.com",
+  "companyname": "SalesForce",
+  "LNusrnm": "salesforce-linkedin",
+  "twitter": "@salesforce",
+  "tagline": "Connecting customers with success",
+  "FBusrnm": "salesforce.fb",
+  "website": "https://www.salesforce.com",
+  "jobDescription": "We are looking for a high-performing Sales Representative to help us meet our customer acquisition and revenue growth targets by keeping our company competitive and innovative. You will be responsible for maximizing our sales potential, crafting sales plans, and justifying those to plans to the upper management."
+}]

@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "6658596a5e3ae7d99154f896"
+  },
+  "name": "Abhay Sonawane",
+  "email": "abhay@gmail.com",
+  "phno": {
+    "$numberLong": "84684123654"
+  },
+  "course": "Web Design",
+  "why": "Tp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf0949233"
+  },
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "phno": 1234567890,
+  "course": "Web Development",
+  "why": "I want to enhance my coding skills and build modern web applications."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf0949234"
+  },
+  "name": "Jane Smith",
+  "email": "janesmith@example.com",
+  "phno": {
+    "$numberLong": "9876543210"
+  },
+  "course": "Graphic Design",
+  "why": "I have a passion for design and want to create visually appealing graphics."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf0949235"
+  },
+  "name": "Alice Johnson",
+  "email": "alicejohnson@example.com",
+  "phno": {
+    "$numberLong": "5556667777"
+  },
+  "course": "Data Science",
+  "why": "I am fascinated by data analysis and want to pursue a career in data science."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf0949236"
+  },
+  "name": "Bob Brown",
+  "email": "bobbrown@example.com",
+  "phno": {
+    "$numberLong": "4445556666"
+  },
+  "course": "Digital Marketing",
+  "why": "I want to learn effective digital marketing strategies to promote brands online."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf0949237"
+  },
+  "name": "Carol White",
+  "email": "carolwhite@example.com",
+  "phno": {
+    "$numberLong": "3334445555"
+  },
+  "course": "Cybersecurity",
+  "why": "I am interested in protecting data and systems from cyber threats."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf0949238"
+  },
+  "name": "David Black",
+  "email": "davidblack@example.com",
+  "phno": {
+    "$numberLong": "2223334444"
+  },
+  "course": "Machine Learning",
+  "why": "I want to understand machine learning algorithms and apply them in real-world projects."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf0949239"
+  },
+  "name": "Eve Green",
+  "email": "evegreen@example.com",
+  "phno": 1112223333,
+  "course": "Project Management",
+  "why": "I aim to improve my project management skills and lead successful projects."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf094923a"
+  },
+  "name": "Frank Harris",
+  "email": "frankharris@example.com",
+  "phno": {
+    "$numberLong": "6667778888"
+  },
+  "course": "Blockchain Technology",
+  "why": "I am excited about the potential of blockchain and want to learn more about it."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf094923b"
+  },
+  "name": "Grace Lee",
+  "email": "gracelee@example.com",
+  "phno": {
+    "$numberLong": "7778889999"
+  },
+  "course": "Artificial Intelligence",
+  "why": "I am passionate about AI and want to develop intelligent systems."
+},
+{
+  "_id": {
+    "$oid": "66586949940d1c2bf094923c"
+  },
+  "name": "Henry Adams",
+  "email": "henryadams@example.com",
+  "phno": {
+    "$numberLong": "8889990000"
+  },
+  "course": "Cloud Computing",
+  "why": "I want to understand cloud services and how to deploy applications in the cloud."
+}]
